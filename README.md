@@ -26,7 +26,7 @@ yarn dev
 
 ## Notice：
 
-`scripts/config.ts` write following:
+add file `scripts/config.ts` write following:
 
 ```typescript
 export const memonic = "Your mnemonic";
